@@ -1,0 +1,15 @@
+/* Sport / military — Bebas Neue display, neon orange + military green */
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: #181a14;
+  color: #f4f1e6;
+  font-family: 'Inter', 'Noto Sans TC', sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 500;
+}
+
+button { font-family: inherit; cursor: pointer; border: none; outline: none; }
+input, select { font-family: inherit; }
