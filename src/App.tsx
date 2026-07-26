@@ -71,7 +71,7 @@ export default function App() {
   return (
     <div className="ops">
       <header className="ops-bar">
-        <a href="https://ai-class-summer.vercel.app/portfolio" className="ops-back">
+        <a href="https://themakerscamp.com/portfolio" className="ops-back">
           ◄◄ PORTFOLIO
         </a>
         <span className="ops-id">UNIT 00-AIMAKER ・ CONFIDENTIAL</span>
@@ -185,7 +185,7 @@ export default function App() {
 
       <footer className="ops-foot">
         <p>// this work was made by AI ・ 你的孩子也能做出自己的版本</p>
-        <a href="https://ai-class-summer.vercel.app/#register" className="ops-cta">
+        <a href="https://themakerscamp.com/#register" className="ops-cta">
           REPORT ・ AI 造物營
         </a>
       </footer>
